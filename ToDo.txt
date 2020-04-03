@@ -1,0 +1,22 @@
+1. Build the project
+    - creating the folder
+    - adding files
+    - connecting files
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolio item frid
+    - images
+    - titles
+    - descriptions
+    - animations
+    - javascript
+
+4. About page
+   - iamge
+   - split column layout
+   - content
+
+Images : unsplash.com
+Fonts  : fonts.google.com
