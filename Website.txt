@@ -5,4 +5,6 @@ Creating your website using Angular 6
 3. create or use an existing HTML template
 4. step by step convert HTML to Angular components
 5. Separate sattic data from Template
-6. move things to a configuration file  
+6. move things to a configuration file
+
+7. Please add my changes
